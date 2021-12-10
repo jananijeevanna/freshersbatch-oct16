@@ -1,1 +1,1 @@
-This repository contains assignments for GIT
+This repository contains html-assignments for GIT.
