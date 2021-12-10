@@ -1,3 +1,5 @@
-This repository contains css-assignments for GIT.
+This repository contains html-assignments for GIT.
 
-Second level of changes in CSS branch
+Made some changes in txt file.
+
+Final changes
